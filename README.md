@@ -45,3 +45,12 @@ We offer tools that help users quickly update their personal information, making
 Summary
 
 By following these ethical principles, we make sure that our GP appointment booking website works well and maintains high ethical standards. Our promise to act ethically makes our platform trustworthy and safe for users, which improves their experience and helps them receive healthcare services more easily. By doing this, we help the community and maintain the high standard of service our users expect and deserve.
+
+
+
+
+
+References
+https://cliowebsites.com/ethical-principles-in-web-design/
+https://www.crestinfotech.com/ethical-considerations-in-mobile-app-development/#:~:text=By%20prioritizing%20user%20privacy%2C%20consent,a%20more%20responsible%20digital%20ecosystem.
+
